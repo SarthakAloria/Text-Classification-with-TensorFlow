@@ -1,0 +1,13 @@
+name: text-classification
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - tensorflow>=2.5,<3
+  - tensorflow-hub
+  - tensorflow-datasets
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - jupyterlab

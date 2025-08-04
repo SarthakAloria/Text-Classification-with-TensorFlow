@@ -1,0 +1,18 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+
+# Models & data
+*.h5
+*.keras
+*.csv
+
+# OS artifacts
+.DS_Store
